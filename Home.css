@@ -1,0 +1,347 @@
+ .u-section-1 {
+  background-image: url("images/surgery-3113314-0117-8col.webp");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 291px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 177px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 900;
+  margin: 60px auto;
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 155px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin: 19px 0;
+  }
+} .u-section-3 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/diverse-medical-professionals-1324292283.jpg");
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 541px;
+}
+
+.u-section-3 .u-layout-wrap-1 {
+  margin: 60px auto 60px 0;
+}
+
+.u-section-3 .u-layout-cell-1 {
+  min-height: 431px;
+}
+
+.u-section-3 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: normal;
+  margin: 0 auto;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.125rem;
+  font-weight: normal;
+  margin: 34px 0 0;
+}
+
+.u-section-3 .u-btn-1 {
+  letter-spacing: normal;
+  font-weight: normal;
+  text-transform: none;
+  font-size: 1rem;
+  background-image: none;
+  margin: 37px auto 0;
+}
+
+.u-section-3 .u-image-1 {
+  min-height: 431px;
+  background-image: url("images/1.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 355px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 355px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 272px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-text-2 {
+    font-size: 1rem;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 408px;
+  }
+
+  .u-section-3 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-3 {
+    background-position: 36.85% 50%;
+  }
+
+  .u-section-3 .u-sheet-1 {
+    min-height: 682px;
+  }
+
+  .u-section-3 .u-layout-wrap-1 {
+    margin-top: 19px;
+    margin-bottom: 0;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-layout-cell-1 {
+    min-height: 412px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-weight: 700;
+  }
+
+  .u-section-3 .u-text-2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+
+  .u-section-3 .u-btn-1 {
+    letter-spacing: 1px;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 1.25rem;
+    border-style: solid;
+  }
+
+  .u-section-3 .u-image-1 {
+    min-height: 257px;
+  }
+} .u-section-4 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/praram-9-article.jpg");
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 854px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin: 60px auto 60px 0;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 590px;
+  background-image: url("images/11.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 30px 60px;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 255px;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px 60px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 0 auto 0 0;
+}
+
+.u-section-4 .u-text-2 {
+  font-size: 1.125rem;
+  font-weight: normal;
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-btn-1 {
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 2px;
+  border-style: solid;
+  font-weight: normal;
+  margin: 20px auto 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 486px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-image-1 {
+    min-height: 372px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-image-1 {
+    min-height: 558px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-text-2 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-4 {
+    background-position: 14.23% 50%;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-top: 0;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 352px;
+    background-position: 42.97% 50%;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 442px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: 13px;
+    margin-left: auto;
+  }
+
+  .u-section-4 .u-text-2 {
+    font-size: 1.25rem;
+    font-weight: 700;
+  }
+
+  .u-section-4 .u-btn-1 {
+    font-size: 1.125rem;
+    letter-spacing: 1px;
+    border-style: none;
+    font-weight: 700;
+    margin-top: 33px;
+    margin-left: auto;
+    padding: 15px 50px;
+  }
+} .u-section-5 {
+  background-image: none;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 180px;
+}
+
+.u-section-5 .u-social-icons-1 {
+  height: 60px;
+  min-height: 16px;
+  width: 300px;
+  min-width: 124px;
+  margin: 60px auto;
+}
+
+.u-section-5 .u-icon-4 {
+  height: 100%;
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 120px;
+  }
+
+  .u-section-5 .u-social-icons-1 {
+    margin-top: 30px;
+    margin-bottom: 0;
+  }
+}
